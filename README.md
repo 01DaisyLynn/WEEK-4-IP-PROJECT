@@ -2,7 +2,7 @@
 
 # Description #
 
- To process stations data to understand electric car usage over time using the autolib dataset
+ processing stations data to understand electric car usage over time using the autolib dataset
 
 # Setup #
 
