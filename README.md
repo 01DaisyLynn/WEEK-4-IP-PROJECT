@@ -1,14 +1,14 @@
 # WEEK-4-IP-PROJECT
 
-# DESCRIPTION #
-\\
+# Description #
+\
 
 
-# SETUP #
-\\
+# Setup #
+\
 
-# TOOLS USED #
-\\
+# Tools used #
+\
 
-# LICENSE #
-\\
+# License #
+\
