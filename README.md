@@ -6,11 +6,11 @@
 
 # Setup #
 
-  import neccessary libraries i.e pandas and numpy
+  import neccessary libraries i.e pandas and numpy into your colb notebook
   
   import csv file http://bit.ly/autolib_dataset
   
-  Preview/Read the dataset
+  Preview/Read the dataset - familiarize yourself with the dataset
 
 # Tools used #
 
